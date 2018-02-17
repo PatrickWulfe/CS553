@@ -1,0 +1,9 @@
+
+Important: This is the first log message.
+Important: This is another log message.
+Important: These log messages could go on forever.
+Important: This could be the last log message.
+Important: Turns out that wasn't the last log message.
+Important: And neither was that one.
+Important: This is the last log message.
+Important: Just kidding.
